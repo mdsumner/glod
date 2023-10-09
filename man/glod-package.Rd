@@ -8,6 +8,14 @@
 \description{
 Plot the geograper's line of death, with options.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/mdsumner/glod}
+  \item Report bugs at \url{https://github.com/mdsumner/glod/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Michael Sumner \email{mdsumner@gmail.com}
 
