@@ -1,0 +1,14 @@
+Package: glod
+Title: The Geographer's Line of Death
+Version: 0.0.0.9000
+Authors@R: 
+    person("Michael", "Sumner", , "mdsumner@gmail.com", role = c("aut", "cre"))
+Description: Plot the geograper's line of death, with options.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: 
+    R (>= 2.10)
+Imports: 
+    reproj (>= 0.5.0)
